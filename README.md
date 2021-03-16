@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Piti
+- 👀 I’m interested in Front End Develpoment
+- 🌱 I’m currently learning Front end and PHP
